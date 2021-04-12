@@ -1,0 +1,17 @@
+.app__specials {
+  flex-direction: column;
+  background: var(--color-black);
+}
+
+.app__specials-title {
+  text-align: center;
+}
+
+.app__specials-menu {
+  width: 100%;
+  margin-block: 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+}
