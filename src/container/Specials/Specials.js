@@ -11,8 +11,8 @@ const Specials = () => (
     </div>
     <div className="app__specials-menu">
       <div className="app__specials-menu_wine flex__center">
-        <p className="app__specials_menu_heading">Wine & Beer</p>
-        <div className="app__specials_menu_items">
+        <p className="app__specials-menu_heading">Wine & Beer</p>
+        <div className="app__specials-menu_items">
           {data.wines.map((item, i) => {
             return (
               <MenuItem
@@ -29,8 +29,8 @@ const Specials = () => (
         <img src={images.menu} alt="menu" />
       </div>
       <div className="app__specials-menu_cocktails flex__center">
-        <p className="app__specials_menu_heading">Cocktails</p>
-        <div className="app__specials_menu_items">
+        <p className="app__specials-menu_heading">Cocktails</p>
+        <div className="app__specials-menu_items">
           {data.cocktails.map((item, i) => {
             return (
               <MenuItem
@@ -43,9 +43,9 @@ const Specials = () => (
           })}
         </div>
       </div>
-      <div>
-        <button className="custom__button">Learn More</button>
-      </div>
+    </div>
+    <div style={{ marginTop: "1rem" }}>
+      <button className="custom__button">Learn More</button>
     </div>
   </div>
 );

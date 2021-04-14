@@ -15,3 +15,34 @@
   justify-content: center;
   align-items: flex-start;
 }
+
+.app__specials-menu_heading {
+  font-family: var(--font-base);
+  font-weight: 600;
+  font-size: 45px;
+  color: var(--color-white);
+  letter-spacing: 0.04rem;
+  margin-block: 2rem;
+}
+
+.app__specials-menu_wine,
+.app__specials-menu_cocktails {
+  flex-direction: column;
+  flex: 1;
+  width: 100%;
+}
+
+.app__specials-menu_img {
+  width: 410px;
+  margin-inline: 2rem;
+}
+
+.app__specials-menu_img img {
+  width: 100%;
+  height: auto;
+}
+
+.app__specials-menu-items {
+  display: flex;
+  flex-direction: column;
+}
