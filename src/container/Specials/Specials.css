@@ -35,6 +35,7 @@
 .app__specials-menu_img {
   width: 410px;
   margin-inline: 2rem;
+  margin-top: 3rem;
 }
 
 .app__specials-menu_img img {
@@ -45,4 +46,21 @@
 .app__specials-menu-items {
   display: flex;
   flex-direction: column;
+}
+
+@media (max-width: 2000px) {
+  .app__specials-menu_img {
+    margin-block: 2rem;
+  }
+}
+@media (max-width: 1150px) {
+  .app__specials-menu {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+@media (max-width: 650px) {
+  .app__specials-menu_img {
+    width: 100%;
+  }
 }
