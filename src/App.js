@@ -7,7 +7,7 @@ import {
   Footer,
   Gallery,
   Header,
-  Intro,
+  Video,
   Awards,
   Specials,
 } from "./container";
@@ -21,7 +21,7 @@ const App = () => (
     <AboutUs />
     <Specials />
     <Chef />
-    <Intro />
+    <Video />
     <Awards />
     <Gallery />
     <FindUs />

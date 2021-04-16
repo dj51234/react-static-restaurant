@@ -4,7 +4,7 @@ import FindUs from "./Findus/FindUs";
 import Footer from "./Footer/Footer";
 import Gallery from "./Gallery/Gallery";
 import Header from "./Header/Header";
-import Intro from "./Intro/Intro";
+import Video from "./Video/Video";
 import Awards from "./Awards/Awards";
 import Specials from "./Specials/Specials";
 
@@ -15,7 +15,7 @@ export {
   Footer,
   Gallery,
   Header,
-  Intro,
+  Video,
   Awards,
   Specials,
 };
