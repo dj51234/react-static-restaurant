@@ -105,17 +105,14 @@
   .custom__button,
   .p__cormorant {
     font-size: 37px;
-    line-height: 67px;
   }
 
   .p__opensans {
     font-size: 20px;
-    line-height: 50px;
   }
 
   .headtext__cormorant {
-    font-size: 150px;
-    line-height: 210px;
+    font-size: 100px;
   }
 
   .spoon__img {

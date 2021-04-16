@@ -1,0 +1,29 @@
+.app__chef-content {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 2rem;
+}
+
+.app__chef-content_quote img {
+  width: 47px;
+  height: 40px;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  float: left;
+}
+
+.app__chef-signature img {
+  width: 250px;
+}
+
+.app__chef-signature-title {
+  color: var(--color-golden);
+  font-family: var(--font-base);
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0.04rem;
+}
+
+@media (max-width: 2000px) {
+}
