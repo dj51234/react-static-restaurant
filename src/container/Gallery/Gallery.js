@@ -46,7 +46,7 @@ const Gallery = () => {
                 key={i + 1}
               >
                 <img src={img} alt="Gallery Image" />
-                <BsInstagram className="gallery__image-icon" />
+                <BsInstagram className="gallery__image-icon instagram-icon" />
               </div>
             );
           })}
