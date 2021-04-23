@@ -23,9 +23,15 @@ const Footer = () => (
         </p>
         <img src={images.spoon} className="spoon__img" alt="spoon" />
         <div className="app__footer-links_icons">
-          <FiFacebook fontSize={24} />
-          <FiTwitter fontSize={24} />
-          <FiInstagram fontSize={24} />
+          <a href="https://facebook.com">
+            <FiFacebook fontSize={24} />
+          </a>
+          <a href="https://twitter.com">
+            <FiTwitter fontSize={24} />
+          </a>
+          <a href="https://instagram.com">
+            <FiInstagram fontSize={24} />
+          </a>
         </div>
       </div>
       <div className="app__footer-links_hours">

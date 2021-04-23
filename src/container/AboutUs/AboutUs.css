@@ -65,6 +65,10 @@
 }
 
 @media (max-width: 650px) {
+  .app__aboutus-content_knife img {
+    height: 1100px;
+    margin-block: 2rem;
+  }
   .app__aboutus-overlay img {
     width: 80%;
     aspect-ratio: 1;

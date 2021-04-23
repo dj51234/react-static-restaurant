@@ -6,7 +6,7 @@ import "./Specials.css";
 const Specials = () => (
   <div className="app__specials flex__center section__padding" id="specials">
     <div className="app__specials-title">
-      <SubHeading title="Menu That Fits Your Pallette"></SubHeading>
+      <SubHeading title="A Menu That Fits Your Pallette"></SubHeading>
       <h1 className="headtext__cormorant">Todays Specials</h1>
     </div>
     <div className="app__specials-menu">

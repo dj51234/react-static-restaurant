@@ -10,7 +10,7 @@ const FindUs = () => (
       </h1>
       <div className="app__wrapper-content">
         <p className="p__opensans">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Our new spot is in New York and you can find us during these hours.
         </p>
         <p
           className="p__cormorant"

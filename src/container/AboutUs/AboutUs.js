@@ -15,9 +15,10 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="spoon" className="spoon__img" />
         <p className="p__opensans">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
-          repudiandae omnis voluptatem temporibus aspernatur hic fuga voluptatum
-          corrupti, facilis inventore? Quia consectetur ipsa sequi ea!
+          Gericht is excited to announce its' transition to America with our
+          first restaurant in New York, the melting pot of the United States.
+          Everyone from all backgrounds are welcome to try our professionally
+          acclaimed cuisine.
         </p>
         <button className="custom__button">Learn More</button>
       </div>
@@ -28,9 +29,9 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="spoon" className="spoon__img" />
         <p className="p__opensans">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
-          repudiandae omnis voluptatem temporibus aspernatur hic fuga voluptatum
-          corrupti, facilis inventore? Quia consectetur ipsa sequi ea!
+          We are a new restaurant derived from German origins. Our food is
+          largely based on German traditions but we have a little bit of
+          everything for eveeryone. Enjoy the finest cuisine in NY today.
         </p>
         <button className="custom__button">Learn More</button>
       </div>

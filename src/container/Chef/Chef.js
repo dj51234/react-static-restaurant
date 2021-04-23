@@ -15,11 +15,12 @@ const Chef = () => (
         <div className="app__chef-content_quote">
           <img src={images.quote} alt="chef quote" />
           <p className="p__opensans">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga
-            voluptates cumque pariatur itaque voluptatum error doloribus,
-            officia autem ducimus labore repellat aut dolor temporibus
-            distinctio nulla id accusamus esse laboriosam? Lorem ipsum dolor sit
-            amet, consectetur adipisicing elit. Accusamus, facilis.
+            My family migrated to Europe in the early 1990's where I was
+            introduced to a plethora of new foods that I'd never even heard of.
+            I became interested in creating and making food that was unique and
+            delicious at that time and never looked back. I started this
+            restaurant in Germany and am so excited for our new adventure
+            abroad.
           </p>
         </div>
       </div>

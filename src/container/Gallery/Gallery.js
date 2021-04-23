@@ -32,9 +32,8 @@ const Gallery = () => {
           className="p__opensans"
           style={{ color: "#aaa", marginTop: "2rem", maxWidth: "75ch" }}
         >
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum
-          pariatur totam assumenda quasi quisquam explicabo, commodi vitae
-          inventore architecto eum.
+          Don't take our word for it? Check out these amazing photos submitted
+          by verified customers across the world.
         </p>
         <button className="custom__button" style={{ marginTop: "2rem" }}>
           See More
