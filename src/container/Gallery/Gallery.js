@@ -28,7 +28,10 @@ const Gallery = () => {
       <div className="app__gallery-content">
         <SubHeading title="Instagram" />
         <h1 className="headtext__cormorant">Photo Gallery</h1>
-        <p className="p__opensans" style={{ color: "#aaa", marginTop: "2rem" }}>
+        <p
+          className="p__opensans"
+          style={{ color: "#aaa", marginTop: "2rem", maxWidth: "75ch" }}
+        >
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum
           pariatur totam assumenda quasi quisquam explicabo, commodi vitae
           inventore architecto eum.

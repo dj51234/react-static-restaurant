@@ -105,15 +105,15 @@
 @media screen and (min-width: 2000px) {
   .custom__button,
   .p__cormorant {
-    font-size: 37px;
+    font-size: 32px;
   }
 
   .p__opensans {
-    font-size: 20px;
+    font-size: 16px;
   }
 
   .headtext__cormorant {
-    font-size: 100px;
+    font-size: 70px;
   }
 
   .spoon__img {
